@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 __author__ = "Van Graham"
-__version__ = "2.4"
+__version__ = "1.0"
 
 from argparse import ArgumentParser
 import requests
