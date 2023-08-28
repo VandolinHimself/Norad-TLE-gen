@@ -59,8 +59,8 @@ if __name__== "__main__":
     tr_file = 'satellites.txt'
 
     # Output default file paths
-    out_files = [path.join('C:/WXtoImg', 'weather.tle'), 
-                 path.join('C:/Program Files (x86)/Orbitron/Tle', 'weather.tle')]
+    out_files = [path.join('C:/WXtoImg', 'custom.tle'), 
+                 path.join('C:/Program Files (x86)/Orbitron/Tle', 'custom.tle')]
 
     if args['output']:
         out_files = [args['output']]  # If specific output is given, use it
