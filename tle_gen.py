@@ -60,7 +60,7 @@ if __name__== "__main__":
 
     # Output default file paths
     out_files = [path.join('C:/WXtoImg', 'weather.tle'), 
-                 path.join('C:/Program Files(x86)/Orbitron/Tle', 'weather.tle')]
+                 path.join('C:/Program Files (x86)/Orbitron/Tle', 'weather.tle')]
 
     if args['output']:
         out_files = [args['output']]  # If specific output is given, use it
