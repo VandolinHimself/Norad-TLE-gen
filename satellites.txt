@@ -1,0 +1,9 @@
+# Tracked satellites list.
+
+# This list contains the NORAD catalog number for the tracked satellites.
+# Get more catalog numbers at https://www.celestrak.com/satcat/search.php
+
+25338   # NOAA 15
+28654   # NOAA 18
+33591   # NOAA 19
+
