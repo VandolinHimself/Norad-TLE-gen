@@ -1,6 +1,6 @@
 # TLE Generator
 
-Custom TLE file generator.
+Custom TLE file generator.  Meant to work with WXtoImg and Orbitron and will place the resulting CustomTLE file in the appropriate directories on windows. [C:/WXtoImg & C:/Program Files(x86)/Orbitron/Tle]
 
 ## Usage:
 
